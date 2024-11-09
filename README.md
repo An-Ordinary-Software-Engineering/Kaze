@@ -1,4 +1,4 @@
-# _FastCLI_ - build .NET applications quickly!
+# 🍃 _Kaze_ - like the **wind**, build .NET applications smoothly and quickly!
 
 ```text
 /
@@ -8,6 +8,6 @@
 │       ├── FastCLI.Application.csproj
 │       └── Program.cs
 │
-├── FastCLI.sln
+├── Kaze.sln
 └── README.md
 ```

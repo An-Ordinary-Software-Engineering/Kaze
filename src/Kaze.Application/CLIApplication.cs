@@ -1,11 +1,11 @@
 using System.CommandLine;
 
-namespace FastCLI.Application;
+namespace Kaze.Application;
 
 public class CLIApplication
 {
-    private const string _descriptionApp = "FastCLI - build .NET applications quickly!";
-    private const string _rootCommandName = "fs";
+    private const string _descriptionApp = "Kaze - build .NET applications quickly!";
+    private const string _rootCommandName = "kz";
 
     public static RootCommand Build()
     {

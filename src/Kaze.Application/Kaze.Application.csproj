@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FastCLI.Core\FastCLI.Core.csproj" />
+    <ProjectReference Include="..\Kaze.Core\Kaze.Core.csproj" />
   </ItemGroup>
 
 </Project>

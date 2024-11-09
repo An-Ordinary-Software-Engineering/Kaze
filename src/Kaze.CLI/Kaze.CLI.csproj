@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\FastCLI.Application\FastCLI.Application.csproj" />
-    <ProjectReference Include="..\FastCLI.Core\FastCLI.Core.csproj" />
+    <ProjectReference Include="..\Kaze.Application\Kaze.Application.csproj" />
+    <ProjectReference Include="..\Kaze.Core\Kaze.Core.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

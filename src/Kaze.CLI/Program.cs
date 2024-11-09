@@ -1,4 +1,4 @@
-﻿using FastCLI.Application;
+﻿using Kaze.Application;
 
 var root = CLIApplication.Build();
 
